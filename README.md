@@ -1,3 +1,3 @@
-# React + Tailwind = Spotify Clone
+# CASTBOX
 
-React + Tailwind serisinin bu bölümünde spotify'ın web versiyonunu birlikte kodluyoruz.
+React + Tailwind css
